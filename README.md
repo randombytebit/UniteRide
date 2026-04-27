@@ -64,6 +64,13 @@ The application covers route information and estimated arrival times for:
 
 ## Screenshots
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/randombytebit/UniteRide/master/markdown-resource/Screenshot%202026-04-27%20at%2019.17.57.png" alt="Screenshot 1" width="220"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/randombytebit/UniteRide/master/markdown-resource/Screenshot%202026-04-27%20at%2019.19.50.png" alt="Screenshot 2" width="220"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/randombytebit/UniteRide/master/markdown-resource/Screenshot%202026-04-27%20at%2019.20.09.png" alt="Screenshot 3" width="220"/>
+</div>
 
 ---
 
